@@ -1,0 +1,15 @@
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\bin\Debug\net6.0\dop.exe
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\bin\Debug\net6.0\dop.deps.json
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\bin\Debug\net6.0\dop.runtimeconfig.json
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\bin\Debug\net6.0\dop.dll
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\bin\Debug\net6.0\dop.pdb
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.csproj.AssemblyReference.cache
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.AssemblyInfoInputs.cache
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.AssemblyInfo.cs
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.csproj.CoreCompileInputs.cache
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.dll
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\refint\dop.dll
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.pdb
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\dop.genruntimeconfig.cache
+C:\Users\volko\OneDrive\Рабочий стол\11\dop\obj\Debug\net6.0\ref\dop.dll
